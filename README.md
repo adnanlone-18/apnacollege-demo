@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first git repository.
 <br>
-Author - Adnan Shabir.
+Author - Adnan Shabir Lone
 
